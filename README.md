@@ -19,6 +19,9 @@ Ko pritisnemo modro tipko prižgemo/ugasnemo zeleno LED, modra led pa še naprej
 b)	Ali pritisk na modro tipko vpliva na utripanje modre LED in zakaj?
 Pritisk na modro tipko ne vpliva na utripanje modre LED zaradi interrupta, ki smo ga nastavili tipki.
 
+KOMENTAR:
+Modra LED vedno utripa s frekvenco 1 Hz, s pomočjo interrupta pa lahko prižgemo zeleno LED s modro tipko.
+
 
 
 
